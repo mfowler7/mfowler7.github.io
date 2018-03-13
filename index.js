@@ -34,6 +34,12 @@ $(document).ready(function(){
 
     // Add same functionality to arrow icon
     $("#arrow").on('click', function() {
-      $(".about-dropdown, .connect, .mark-fowler").slideUp(700);
+      $(".about-dropdown").slideUp(700);
+    });
+    $("#arrow1").on('click', function() {
+      $(".connect").slideUp(700);
+    });
+    $('#arrow2').on('click', function() {
+      $(".mark-fowler").slideUp(700);
     });
 });
