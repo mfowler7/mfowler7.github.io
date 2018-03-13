@@ -34,8 +34,6 @@ $(document).ready(function(){
 
     // Add same functionality to arrow icon
     $("#arrow").on('click', function() {
-      $(".about-dropdown").slideUp(700);
-      $(".connect").slideUp(700);
-      $(".mark-fowler").slideUp(700);
+      $(".about-dropdown, .connect, .mark-fowler").slideUp(700);
     });
 });
