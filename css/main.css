@@ -114,7 +114,6 @@ body {
 
 #arrow:hover {
   cursor: pointer;
-  border: 1px solid white;
 }
 
 #arrow1 {
@@ -128,7 +127,6 @@ body {
 
 #arrow1:hover {
   cursor: pointer;
-  border: 1px solid white;
 }
 
 #arrow2 {
@@ -142,7 +140,6 @@ body {
 
 #arrow2:hover {
   cursor: pointer;
-  border: 1px solid white;
 }
 
 /* Banner */

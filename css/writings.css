@@ -114,7 +114,32 @@ body {
 
 #arrow:hover {
   cursor: pointer;
-  border: 1px solid white;
+}
+
+#arrow1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  max-width: 50px;
+  max-height: 30px;
+}
+
+#arrow1:hover {
+  cursor: pointer;
+}
+
+#arrow2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  max-width: 50px;
+  max-height: 30px;
+}
+
+#arrow2:hover {
+  cursor: pointer;
 }
 
 /* Main */
