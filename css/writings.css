@@ -103,6 +103,20 @@ body {
   padding-right: 10px;
 }
 
+#arrow {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  max-width: 50px;
+  max-height: 30px;
+}
+
+#arrow:hover {
+  cursor: pointer;
+  border: 1px solid white;
+}
+
 /* Main */
 .main {
   border-top: 1px white solid;
