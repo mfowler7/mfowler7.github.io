@@ -37,7 +37,7 @@ $(document).ready(function(){
       $(".about-dropdown").slideUp(700);
     });
     $("#arrow1").on('click', function() {
-      $(".connect").slideUp(700);
+      $(".connect").css("display", "none");
     });
     $('#arrow2').on('click', function() {
       $(".mark-fowler").slideUp(700);
