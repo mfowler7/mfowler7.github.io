@@ -193,10 +193,10 @@ body {
 
 /* Images for links to photos and writings pages */
 .photos {
-  background-image: url('./images/bass-creek.jpg');
+  background-image: url('../images/bass-creek.jpg');
 }
 .writings {
-  background-image: url('./images/frank1.jpg');
+  background-image: url('../images/frank1.jpg');
 }
 
 /* Footer */
